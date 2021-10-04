@@ -1,10 +1,13 @@
 name = "DuckDB_jll"
 uuid = "2cbbab25-fc8b-58cf-88d4-687a02676033"
-version = "0.2.1+0"
+version = "0.2.9+0"
 
 [deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
+JLLWrappers = "1.2.0"
 julia = "1.0"
