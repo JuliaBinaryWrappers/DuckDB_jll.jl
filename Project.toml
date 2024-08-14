@@ -1,6 +1,6 @@
 name = "DuckDB_jll"
 uuid = "2cbbab25-fc8b-58cf-88d4-687a02676033"
-version = "1.0.0+2"
+version = "1.0.0+3"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
