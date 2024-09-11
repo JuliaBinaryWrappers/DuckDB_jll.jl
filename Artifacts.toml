@@ -1,288 +1,276 @@
 [[DuckDB]]
 arch = "aarch64"
-git-tree-sha1 = "7c6b7926eb1341be094efd8518e59ee1779a658b"
+git-tree-sha1 = "debaf012a95dea88edbbb73dd1c1b1693f8f94ed"
 os = "macos"
 
     [[DuckDB.download]]
-    sha256 = "e71738d7321e2da3c3b03ff7f79f6252a99473dca1bb26b0bc1b45c0832e8b01"
-    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.0.0+3/DuckDB.v1.0.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "98850dd1b3832b4fdb8f0788fbce670f5a2322d8b91d132f2c53c5a0cec60805"
+    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.1.0+0/DuckDB.v1.1.0.aarch64-apple-darwin.tar.gz"
 [[DuckDB]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2807ad793390e76060508783bf17d0c435dfe529"
+git-tree-sha1 = "d836e22be70bbc8f9bfc528f9a0da5ef718432ba"
 libc = "glibc"
 os = "linux"
 
     [[DuckDB.download]]
-    sha256 = "b0cde3b6f1e8a11a8acda2bfd488e336db03ed1145cd51da29db541dd99d885f"
-    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.0.0+3/DuckDB.v1.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "6f806c1db80a81fa6c9bb32a98a254e78490b6a83515de0cefec5ce2e6b581ce"
+    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.1.0+0/DuckDB.v1.1.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[DuckDB]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "23cf478e18bab8e01841692ca6846cef95f90045"
+git-tree-sha1 = "9ffc36a61ec96cb5c6a187d9cc2d14f462e767cc"
 libc = "glibc"
 os = "linux"
 
     [[DuckDB.download]]
-    sha256 = "974f4b2091a4858dda599603d9ddf946d014c5c7396f89a1bae083bd727d2c96"
-    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.0.0+3/DuckDB.v1.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "e5a561a39d42d4ddee4171393a7003d5394b4e7634de9a1d339639fae26d8b19"
+    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.1.0+0/DuckDB.v1.1.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[DuckDB]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e4ecaa0125288f95d8645e66da719b410210b171"
+git-tree-sha1 = "55d37d3c0dbfb77744c82d72b71238073c1439bc"
 libc = "musl"
 os = "linux"
 
     [[DuckDB.download]]
-    sha256 = "289803d7af833e47d311af98f436063d503ed1c28e802bb59b55f4e560fd7d77"
-    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.0.0+3/DuckDB.v1.0.0.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "4b40f8bcd66e8ce6fa953c87314ca791c5cc6c52ea0a2db561a2ee61fd237fe2"
+    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.1.0+0/DuckDB.v1.1.0.aarch64-linux-musl-cxx03.tar.gz"
 [[DuckDB]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "69f30412a40b0666e0660dab0632651fbf7fab88"
+git-tree-sha1 = "2e9770903325f1968a09486ad2c21794d48b23d4"
 libc = "musl"
 os = "linux"
 
     [[DuckDB.download]]
-    sha256 = "075fec1ed87e8d1e6ec3049d71c4d3406c8a1458fa6d761dead6568e3303630c"
-    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.0.0+3/DuckDB.v1.0.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "59a6d167a0dec365be86a264ad0c6d8b573c94d1f43c7b507bbef64497511c8d"
+    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.1.0+0/DuckDB.v1.1.0.aarch64-linux-musl-cxx11.tar.gz"
 [[DuckDB]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "6532637cce8b05bc1200bf57bbde440b34e1709f"
-libc = "glibc"
-os = "linux"
-
-    [[DuckDB.download]]
-    sha256 = "59123bbf602f11599066e2288d2bedf8a68ea52a4e1fa8ec53db3d0cabe36d0d"
-    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.0.0+3/DuckDB.v1.0.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
-[[DuckDB]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "8269db8f48ec1a6005b2b696c750d1ef707c10a1"
-libc = "glibc"
-os = "linux"
-
-    [[DuckDB.download]]
-    sha256 = "9f9fef9b84b73b12d0fb98bc50f94066477cce0a20d6aa3d0ed90d39faf88e46"
-    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.0.0+3/DuckDB.v1.0.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
-[[DuckDB]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "707664e3f9c308c22c067c9df89d504a78987942"
-libc = "musl"
-os = "linux"
-
-    [[DuckDB.download]]
-    sha256 = "13df80ea21c9b6ac0f2d288f0753e8d0595723c2ca817b9a25377857185d4ad8"
-    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.0.0+3/DuckDB.v1.0.0.armv6l-linux-musleabihf-cxx03.tar.gz"
-[[DuckDB]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "1479e563c26ca0c39a2bf4b74b7edf459d071d91"
-libc = "musl"
-os = "linux"
-
-    [[DuckDB.download]]
-    sha256 = "c546f21f36395e4f2230a7c879c6a0237bde1880ab1b0c72f311523ce32ada47"
-    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.0.0+3/DuckDB.v1.0.0.armv6l-linux-musleabihf-cxx11.tar.gz"
-[[DuckDB]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "4e51399e1b6a64d1c394bf5163bb5fd8fa951a9e"
-libc = "glibc"
-os = "linux"
-
-    [[DuckDB.download]]
-    sha256 = "86900b3eaecee8bc5e7b90ae1e7c1d3865d0789c79557496f0f582ccae6a3ac5"
-    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.0.0+3/DuckDB.v1.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
-[[DuckDB]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "b57db64f605db4afdfba26bc5164b8823e9b91f3"
-libc = "glibc"
-os = "linux"
-
-    [[DuckDB.download]]
-    sha256 = "ad44b1ccbe358cf80de0c60b91eb105fdb3d8527102cd5cc2749383ebdecd726"
-    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.0.0+3/DuckDB.v1.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
-[[DuckDB]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "cbe7c8644e0110accd928de38e19fc5bf6a40e9e"
-libc = "musl"
-os = "linux"
-
-    [[DuckDB.download]]
-    sha256 = "d1088ba120af92886e2684ec4e9a077886a2554191e908869ee3ae319ac9e9f7"
-    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.0.0+3/DuckDB.v1.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
-[[DuckDB]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "28291edb61464edbb7b245eaa803cb6aeb161da5"
-libc = "musl"
-os = "linux"
-
-    [[DuckDB.download]]
-    sha256 = "9e103967a49235679dcadecb1390ace6d41c7df2ae3c77d844b03c79b2f4ea19"
-    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.0.0+3/DuckDB.v1.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
-[[DuckDB]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "033e412e66aca3b0e9918d5ade4e84389ce5b96a"
-libc = "glibc"
-os = "linux"
-
-    [[DuckDB.download]]
-    sha256 = "d5c153571a877704d6be3684191bc51d3a761426a5be537ba622e1c17d76f0e9"
-    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.0.0+3/DuckDB.v1.0.0.i686-linux-gnu-cxx03.tar.gz"
-[[DuckDB]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "ef99842dc61fc02307041b4d984ccee10edf9607"
-libc = "glibc"
-os = "linux"
-
-    [[DuckDB.download]]
-    sha256 = "887ca19363a2ef266a9e309d31a566969bcb302e58f61def8f764c75df608792"
-    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.0.0+3/DuckDB.v1.0.0.i686-linux-gnu-cxx11.tar.gz"
-[[DuckDB]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "749c59f9434e73ea668df0563738f4478f397b50"
-libc = "musl"
-os = "linux"
-
-    [[DuckDB.download]]
-    sha256 = "531b661f587ba06364aa277b4637b4c55fb9ee6e9af7df1b32b66b52ef0e5877"
-    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.0.0+3/DuckDB.v1.0.0.i686-linux-musl-cxx03.tar.gz"
-[[DuckDB]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "101283e8d2fdf7e8a9ffd4765c6a1a60275ac51f"
-libc = "musl"
-os = "linux"
-
-    [[DuckDB.download]]
-    sha256 = "a9e44e773a25fd2765b4e6ea9369aa1b3baffea5f904368823e41d12035d281c"
-    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.0.0+3/DuckDB.v1.0.0.i686-linux-musl-cxx11.tar.gz"
-[[DuckDB]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "767e094e9cc553a1ff0b8b14d1cdf7c0cbbd7e9a"
-os = "windows"
-
-    [[DuckDB.download]]
-    sha256 = "52ed4329dc38f6819e36b79683d41b649821356fe1f804b9fe88e2c751af4cb7"
-    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.0.0+3/DuckDB.v1.0.0.i686-w64-mingw32-cxx03.tar.gz"
-[[DuckDB]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "4d73ca9865bc4ca2ef283e74e9f65890828bb4c5"
-os = "windows"
-
-    [[DuckDB.download]]
-    sha256 = "df6bbef1c06e63ca0b95f15f341a7c1698ce36b51c997e37756e15b2cb0ef0e9"
-    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.0.0+3/DuckDB.v1.0.0.i686-w64-mingw32-cxx11.tar.gz"
-[[DuckDB]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "c626694b314340d6c6f0b6433d543fd5385fe1b5"
-libc = "glibc"
-os = "linux"
-
-    [[DuckDB.download]]
-    sha256 = "8aeaaf80026968acc45245b768d4902d931aa20b5b0cbce8c57e93c91ec60610"
-    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.0.0+3/DuckDB.v1.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
-[[DuckDB]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "3167badbb632e430dbf1260a95f2b3b97ada2be2"
-libc = "glibc"
-os = "linux"
-
-    [[DuckDB.download]]
-    sha256 = "f29565aa1e75c6bf9ba4c9d55297033e2e8a96600f7b5e12fe19ccf428c8f770"
-    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.0.0+3/DuckDB.v1.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
-[[DuckDB]]
-arch = "x86_64"
-git-tree-sha1 = "f2cd2859284b562a0cdbd43202101c0cc83ec441"
-os = "macos"
-
-    [[DuckDB.download]]
-    sha256 = "6aae0845c984fc7433344ab882cb94d1df201374195731225771d5fdfe7331b4"
-    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.0.0+3/DuckDB.v1.0.0.x86_64-apple-darwin.tar.gz"
-[[DuckDB]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "d2728bd3b089cc07e77e73a161d423ae9d190c46"
-libc = "glibc"
-os = "linux"
-
-    [[DuckDB.download]]
-    sha256 = "49a173ad1a82c45507411a6f735b17790368976780bf8f26edf6017ecb9febc4"
-    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.0.0+3/DuckDB.v1.0.0.x86_64-linux-gnu-cxx03.tar.gz"
-[[DuckDB]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "214f2f5403cb7205976fa477608e2a59f4b49f4b"
-libc = "glibc"
-os = "linux"
-
-    [[DuckDB.download]]
-    sha256 = "ecde270c2ce9b235199b531b527520aabd08a838961ab2dc2ce6ac09586a3eaa"
-    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.0.0+3/DuckDB.v1.0.0.x86_64-linux-gnu-cxx11.tar.gz"
-[[DuckDB]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "2066eba833e93714fb80d187bf5dd31f571ebeef"
-libc = "musl"
-os = "linux"
-
-    [[DuckDB.download]]
-    sha256 = "b66d2a8ef5442f8b471eccbae993c5d954320e776e178d48b453a6e53e46f793"
-    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.0.0+3/DuckDB.v1.0.0.x86_64-linux-musl-cxx03.tar.gz"
-[[DuckDB]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "7ea80a13f99be974756a0b24d52dd3ab55be0aa0"
-libc = "musl"
-os = "linux"
-
-    [[DuckDB.download]]
-    sha256 = "51c8b01edd22a3b360968cadc0bfa1ed160ec17d606116c01d80abcb377c6805"
-    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.0.0+3/DuckDB.v1.0.0.x86_64-linux-musl-cxx11.tar.gz"
-[[DuckDB]]
-arch = "x86_64"
-git-tree-sha1 = "b3ded442902a24632fa3a2230ee9647eab066e38"
+arch = "aarch64"
+git-tree-sha1 = "0e55e4ae93db65678e51a470442e2cfa3caf64e1"
 os = "freebsd"
 
     [[DuckDB.download]]
-    sha256 = "3c2d7ce88fd1b9a722be3144b70fad31789ecf8878ba97c59b262b98886fef5a"
-    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.0.0+3/DuckDB.v1.0.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "ff18545753f64928d3f72b2809326d07ad4b20e06baf5c1adcddc06e1fcb2e18"
+    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.1.0+0/DuckDB.v1.1.0.aarch64-unknown-freebsd.tar.gz"
+[[DuckDB]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8fe768f5e2e56bb3bdc25e064bb840c0dcf44b53"
+libc = "glibc"
+os = "linux"
+
+    [[DuckDB.download]]
+    sha256 = "cef3a500a079aa7d1e8f316de4f6fb56d66ccd4b5f44327be48537aa06d2f661"
+    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.1.0+0/DuckDB.v1.1.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[DuckDB]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e291f5d09ad58f6e30c5051e4e4333754c5c1a89"
+libc = "glibc"
+os = "linux"
+
+    [[DuckDB.download]]
+    sha256 = "6edb18e37c9341c6666a9c5e244e17b37e81295138426ab32c0fbfa5d3f641b5"
+    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.1.0+0/DuckDB.v1.1.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[DuckDB]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f77d5e8e2c1e710ff0de50dee70fd112e9788163"
+libc = "musl"
+os = "linux"
+
+    [[DuckDB.download]]
+    sha256 = "8adea0bc0d04d61d784f9054c2f52f654c9552a65efa71cf4dcdfff4ddc2b806"
+    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.1.0+0/DuckDB.v1.1.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[DuckDB]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bc10329c216cc601b63b16d5f5aed31b2575dc26"
+libc = "musl"
+os = "linux"
+
+    [[DuckDB.download]]
+    sha256 = "71cb284ebc1d211783d92b07667434676a770c49f9a3c4d8efa69796a4ab633c"
+    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.1.0+0/DuckDB.v1.1.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[DuckDB]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "77a5c22812209f14e9994bd8fdac9bddde160f90"
+libc = "glibc"
+os = "linux"
+
+    [[DuckDB.download]]
+    sha256 = "653ef3eb58a17dbe6a0d59488f41d509fce193e62bafe67b1128bd24c79f305e"
+    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.1.0+0/DuckDB.v1.1.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[DuckDB]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ec0c30fc174fc9bb5f07809d5f0af29d924cc0db"
+libc = "glibc"
+os = "linux"
+
+    [[DuckDB.download]]
+    sha256 = "8c2c256099e5b20c86f4c4212e99e8725fbe0f9d883b6d1af1d87923c8cd758a"
+    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.1.0+0/DuckDB.v1.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[DuckDB]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9dc9dd61023ffc6ac279befd12c145839e86c1c7"
+libc = "musl"
+os = "linux"
+
+    [[DuckDB.download]]
+    sha256 = "ed8db807228c19a811d3d78787428685e31b63728dda804ee788a697b95f9d78"
+    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.1.0+0/DuckDB.v1.1.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[DuckDB]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0b96718625ef490d329b0a7a02700a4dc5f131ee"
+libc = "musl"
+os = "linux"
+
+    [[DuckDB.download]]
+    sha256 = "9ef961940870e6854d7f585ea9a93fec612ffff584a5ffc6868e9cbda19c1b7b"
+    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.1.0+0/DuckDB.v1.1.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[DuckDB]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "48b1c99f0ec051268a7682b13ad5e31e3ce7559b"
+libc = "glibc"
+os = "linux"
+
+    [[DuckDB.download]]
+    sha256 = "81cc0894be6ba48c622cb35986313a76a79e684381603c1e34df24b522798c6d"
+    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.1.0+0/DuckDB.v1.1.0.i686-linux-gnu-cxx03.tar.gz"
+[[DuckDB]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d3dae28fc860bbfa4fd105d6cb3b6d5ddee2b889"
+libc = "glibc"
+os = "linux"
+
+    [[DuckDB.download]]
+    sha256 = "16b0480f81dabc58d1323628c99b4542dabb9859e88e7622cc51fe054f804e00"
+    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.1.0+0/DuckDB.v1.1.0.i686-linux-gnu-cxx11.tar.gz"
+[[DuckDB]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "27c31b44e102dac63a861c4375701d193dfbbdbb"
+libc = "musl"
+os = "linux"
+
+    [[DuckDB.download]]
+    sha256 = "1aea516426e157d196c8ea9d0f1d806a8d791068ec16f9c487c8d05bc6dc4606"
+    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.1.0+0/DuckDB.v1.1.0.i686-linux-musl-cxx03.tar.gz"
+[[DuckDB]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4fecf4493bffa36275c1a74ed99eeb0ab3ac8d70"
+libc = "musl"
+os = "linux"
+
+    [[DuckDB.download]]
+    sha256 = "95f4bfb6bff675eda44ef4e54c9fdc57897af854f852dec395e41702efbd6afb"
+    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.1.0+0/DuckDB.v1.1.0.i686-linux-musl-cxx11.tar.gz"
+[[DuckDB]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6661d18304f4fe6dea7a916077a54bf6a301a870"
+os = "windows"
+
+    [[DuckDB.download]]
+    sha256 = "4c0abb8783a05aa8003dad045b0b5feee937a10bab6b637f74c5f660736855af"
+    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.1.0+0/DuckDB.v1.1.0.i686-w64-mingw32-cxx03.tar.gz"
+[[DuckDB]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5caf7a417dbfa82e33719d83b34ef63538c92d94"
+os = "windows"
+
+    [[DuckDB.download]]
+    sha256 = "81d0184d41ea917417bee06aecbb4b3c5eec84abfdc347632e2e2fc9ef6bc5ec"
+    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.1.0+0/DuckDB.v1.1.0.i686-w64-mingw32-cxx11.tar.gz"
+[[DuckDB]]
+arch = "x86_64"
+git-tree-sha1 = "cc12fb0c46fd9adf61ff8402e42c6a74a7b4ff6f"
+os = "macos"
+
+    [[DuckDB.download]]
+    sha256 = "dbdc72e523e1997700bd6a958703df2b50e1308e4275634d2ca8e72dce7f9b38"
+    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.1.0+0/DuckDB.v1.1.0.x86_64-apple-darwin.tar.gz"
 [[DuckDB]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c916c82762b885a7b13a31090edcb153466bb2e9"
-os = "windows"
+git-tree-sha1 = "4ae29509c50fa1e7c1f485a292ab919e1adebdf5"
+libc = "glibc"
+os = "linux"
 
     [[DuckDB.download]]
-    sha256 = "5b428f86845ded598ab2e0fc8ec80d02637953cd08cd1247bdb4c00ffb58ec9c"
-    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.0.0+3/DuckDB.v1.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "f51b76fa4da5bc23dc28a569674939ad1b675d250e214ebaca0466c123b03b9d"
+    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.1.0+0/DuckDB.v1.1.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[DuckDB]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cf9026e708909232e2f3aa4ba9b450e2804ef9d7"
+git-tree-sha1 = "003131186baea5c291e4099960145d3031d55616"
+libc = "glibc"
+os = "linux"
+
+    [[DuckDB.download]]
+    sha256 = "5447fedcbd92d1ce983d44d53c40097a307a0d0ff1bc7e6d6e53ae8b5f950cb4"
+    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.1.0+0/DuckDB.v1.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[DuckDB]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3f708d65c9987382685a2da3402a323e7c11bfc3"
+libc = "musl"
+os = "linux"
+
+    [[DuckDB.download]]
+    sha256 = "8c75a8ff2d302ffb512932775b9d09ecdc776c0429f2dc18cdcc2adb7a077fad"
+    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.1.0+0/DuckDB.v1.1.0.x86_64-linux-musl-cxx03.tar.gz"
+[[DuckDB]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b74609b49c8650b5e65ae810c1a0380453486d39"
+libc = "musl"
+os = "linux"
+
+    [[DuckDB.download]]
+    sha256 = "61cd126d9635cda54027fcfdec2b7bbfad6cb2b6696730f96afe52bf87a83258"
+    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.1.0+0/DuckDB.v1.1.0.x86_64-linux-musl-cxx11.tar.gz"
+[[DuckDB]]
+arch = "x86_64"
+git-tree-sha1 = "72887a8330f3261ea47ba6e72e22045efc61e4a3"
+os = "freebsd"
+
+    [[DuckDB.download]]
+    sha256 = "1118998429695071945f282d414535a3f73508d62f6b97e5535f15eba597e395"
+    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.1.0+0/DuckDB.v1.1.0.x86_64-unknown-freebsd.tar.gz"
+[[DuckDB]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f2640ec62069b86c417782777cc80e41deae2765"
 os = "windows"
 
     [[DuckDB.download]]
-    sha256 = "e3c4f8336ff18d72fd07035dc08b57339d834c520ae504b484fe7c7aaa9b9a1b"
-    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.0.0+3/DuckDB.v1.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "94b3ca1ce00be0167bd1a373cc405a6f04fbe79e22daf57af7a39997eb44bee7"
+    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.1.0+0/DuckDB.v1.1.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[DuckDB]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "96856948f83b372315f21905a5e7fec7c380b2ad"
+os = "windows"
+
+    [[DuckDB.download]]
+    sha256 = "eec39d691c60104c5ddc6e01b47de630fba74623544201b0abe3215773dc61e3"
+    url = "https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl/releases/download/DuckDB-v1.1.0+0/DuckDB.v1.1.0.x86_64-w64-mingw32-cxx11.tar.gz"
