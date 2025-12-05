@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("DuckDB")
-JLLWrappers.@generate_main_file("DuckDB", UUID("2cbbab25-fc8b-58cf-88d4-687a02676033"))
+JLLWrappers.@generate_main_file("DuckDB", Base.UUID("2cbbab25-fc8b-58cf-88d4-687a02676033"))
 end  # module DuckDB_jll
